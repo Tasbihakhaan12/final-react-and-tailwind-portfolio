@@ -1,0 +1,23 @@
+// 20 world-inspired themes. Colours and fonts are defined in src/index.css
+export const themes = [
+  { id: "tokyo", name: "Tokyo Night", font: "Poppins", c: ["#0b0716", "#ff2e93", "#00e5ff"] },
+  { id: "santorini", name: "Santorini", font: "Inter", c: ["#f2f8ff", "#1565c0", "#f59e0b"] },
+  { id: "sahara", name: "Sahara", font: "Lora", c: ["#fbf1e0", "#c2571a", "#d9a441"] },
+  { id: "amazon", name: "Amazon", font: "Space Grotesk", c: ["#04170d", "#22c55e", "#facc15"] },
+  { id: "nordic", name: "Nordic Aurora", font: "Outfit", c: ["#07131f", "#2dd4bf", "#a78bfa"] },
+  { id: "paris", name: "Paris Rose", font: "Playfair Display", c: ["#fff3f6", "#d6336c", "#c9a227"] },
+  { id: "venice", name: "Venice", font: "Sora", c: ["#0a1a1f", "#e07a5f", "#81b29a"] },
+  { id: "dubai", name: "Dubai Gold", font: "Libre Baskerville", c: ["#0d0b08", "#d4a017", "#f4d37a"] },
+  { id: "swiss", name: "Swiss Alps", font: "DM Sans", c: ["#f4f7fa", "#d52b1e", "#2563eb"] },
+  { id: "kyoto", name: "Kyoto Sakura", font: "Nunito", c: ["#fff5f7", "#e76f95", "#6a994e"] },
+  { id: "maldives", name: "Maldives", font: "Plus Jakarta Sans", c: ["#e8fbff", "#0097a7", "#ff8a65"] },
+  { id: "marrakesh", name: "Marrakesh", font: "Montserrat", c: ["#1d0d09", "#e4572e", "#29a8ab"] },
+  { id: "iceland", name: "Iceland", font: "Manrope", c: ["#eef4f7", "#3a6ea5", "#5fb7c4"] },
+  { id: "bali", name: "Bali", font: "Urbanist", c: ["#f1f7ea", "#3f8f4a", "#e09f3e"] },
+  { id: "cappadocia", name: "Cappadocia", font: "Archivo", c: ["#1f1020", "#ff7a59", "#ffc15e"] },
+  { id: "newyork", name: "New York", font: "Merriweather", c: ["#0e1116", "#ffd400", "#ff4d4d"] },
+  { id: "havana", name: "Havana", font: "Quicksand", c: ["#fff8e7", "#00a6a6", "#ef476f"] },
+  { id: "provence", name: "Provence", font: "Raleway", c: ["#f6f1ff", "#7e57c2", "#f4b942"] },
+  { id: "reef", name: "Great Barrier Reef", font: "Orbitron", c: ["#041a2e", "#00c2ff", "#ff6f91"] },
+  { id: "istanbul", name: "Istanbul", font: "Josefin Sans", c: ["#0a1230", "#e63946", "#2ec4b6"] },
+];
